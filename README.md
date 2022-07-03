@@ -8,7 +8,7 @@ This repository contains the first version of the Eye-lab Logger. It allows visu
 **Email Address:** 
 
 ## The project
-Bikair is a project developed by students from the 4th Generation EAGLE graduate program. It focuses on testing low-cost Arduino-based sensors in an urban environment such as the city of Würzburg. Eventually, the project aims to correlate in-situ data with relevant Remote Sensing-based parameters. It takes advantage of the recent advancements in the Internet of Things (IoT), which allows the collection of data on specific locations and its further transportation using wireless network protocols. Bikair team designed static and mobile devices using sensors that measure environmental parameters like temperature, humidity, UV radiation, particulate matter (PM1, PM 2.5, PM 10), and soil moisture. These measurements could strengthen a wide range of applications such as monitoring the relationship between urban green and temperature, identifying air pollution hotspots, or supporting the downscaling of satellite remote sensing products.
+EyeCatcher is a project developed by scientists for scientists.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ## Usage
 
@@ -16,14 +16,14 @@ Bikair is a project developed by students from the 4th Generation EAGLE graduate
 To visualize the logger, you could follow the next steps:
 1. Download the repository 
 2. Unzip the file  
-3. Open the project `Bikair_Logger_V1.Rproj`
-4. Run the code `Main_App.R`
+3. Open the project `LablyzeR`
+4. Run the code `Ui.R`
 
 After running the code, a new window with the logger will open. 
 
 ### Data Import 
 #### Load File
-The following step is uploading the data. This is possible from the `Data Import` tab. In the left corner, there is a `Browse` button. By clicking it, you can select the file with the data. It is located in the folder of the repository `\Bikair_Logger_V1-main\Data` <br>
+The following step is uploading the data. This is possible from the `Data Import` tab. In the left corner, there is a `Browse` button. By clicking it, you can select the file with the data. <br>
 
 
 #### Table Display
