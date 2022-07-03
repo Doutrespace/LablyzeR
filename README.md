@@ -24,19 +24,10 @@ After running the code, a new window with the logger will open.
 ### Data Import 
 #### Load File
 The following step is uploading the data. This is possible from the `Data Import` tab. In the left corner, there is a `Browse` button. By clicking it, you can select the file with the data. It is located in the folder of the repository `\Bikair_Logger_V1-main\Data` <br>
-<p>
-    <img src="/Resources/Load data.PNG" width="800" />
-</p>
+
 
 #### Table Display
 After loading the file, a table with the data will be displayed. In the left panel you can select variables and observe some statistics such as the median, quartiles, and the minimum and maximum value. <br>
 
 The variable selected would work as a starting point for the next steps. It could be changed afterward. <br>
 
-<p>
-    <img src="/Resources/data_import.PNG" width="800" />
-</p>
-
-<p>
-    <img src="/Resources/plots.PNG" width="850" />
-</p>
