@@ -1,5 +1,5 @@
 <p>
-    <img src="/resources/eyecatcher.png" width="250" />
+    <img src="/resources/eyecatcher.png" width="350" />
 </p>
 
 # Bikair_Logger_V1
