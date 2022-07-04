@@ -3,7 +3,6 @@
 #' @description Get report on whether the given packages are installed on not 
 #' @param packages Vector of package names
 #' @return data.frame, status of required packages and their installation status
-#' @author Jayachandra N
 #' @export
 #' @examples
 #' getLibraryReport(c('dplyr', 'data.table'))

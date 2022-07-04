@@ -2,9 +2,6 @@
 #' getType
 #' @title Get Type
 #' @param vec A vector of any choice, to detect between numeric or character
-#' @author Jayachandra N
-#' @return type of the given vector
-#' @export
 #' @examples
 #' getType(iris$Species)
 #' getType(as.factor(c(1,0,1,1,0,NA,1, NULL)))

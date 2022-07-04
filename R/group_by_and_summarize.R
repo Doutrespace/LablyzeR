@@ -4,10 +4,6 @@
 #' @param df data frame
 #' @param grp_col column name to group
 #' @param summarise_col column name to summarize
-#' @param FUN function to summarize
-#' @return summarized table
-#' @author Jayachandra N
-#' @export
 #' @import dplyr
 #' @importFrom stats median
 #' @examples

@@ -1,12 +1,4 @@
-#' regressionModelMetrics
-#' @title Regression Model Metrics
-#' @description Generate regression model metrics such as R-squared and MAPE.
-#' @author Jayachandra N
-#' @param actuals numeric vector of actual values
-#' @param predictions numeric vector of predictions
-#' @param model lm model object
-#' @importFrom stats AIC BIC na.omit cor
-#' @return list
+
 #' @export
 #' @examples
 #' mod <- lm(formula = wt ~ ., data = mtcars)

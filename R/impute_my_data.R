@@ -4,9 +4,6 @@
 #' @param df data frame to impute
 #' @param col a column name of data frame to impute
 #' @param FUN a function to be used for imputing values one of(mean, median, sum, min, max)
-#' @return data frame after imputing the values
-#' @export
-#' @author Jayachandra N
 #' @importFrom stats median
 #' @examples
 #' x <- head(iris)
