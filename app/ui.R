@@ -1,4 +1,25 @@
 
+DatabaseTest <- Database_ImAi[1:40,]
+names(DatabaseTest)
+
+DatabaseTest[is.na(DatabaseTest[])]
+
+is.na(DatabaseTest)
+
+
+DatabaseTest[is.na(DatabaseTest)] = 0
+
+
+NewNames <- as.character(seq(1:length(names(Database_ImAi))))
+names(Database_ImAi) <- NewNames
+names(Database_ImAi)
+Database_ImAi[is.na(Database_ImAi)] = 0
+Database_ImAi <- Database_ImAi %>% na.omit()
+
+write.csv(x= Database_ImAi,file = "C:\\Users\\nilsk\\Documents\\PROJECTS\\LablyzeR\\data\\New.csv",row.names = F)
+
+
+
 shinyUI(
   fluidPage(
     dashboardPage(
