@@ -1,10 +1,4 @@
-#' getWordCloud
-#' @title Get Word Cloud
-#' @description Get word cloud for given table of words' frequencies
-#' @param d table of word's frequency
-#' @importFrom wordcloud wordcloud
-#' @import RColorBrewer
-#' @return Word cloud plot
+
 #' @export
 #' @examples
 #' \donttest{

@@ -1,9 +1,6 @@
 #' getnumericCols
 #' @title Get Numeric Cols
 #' @description Get all columns which are numeric.
-#' @author Jayachandra N
-#' @param dat data frame
-#' @export
 #' @import dplyr
 #' @return Character vector of names of numeric columns of given data frame
 #' @examples

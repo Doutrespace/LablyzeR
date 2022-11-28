@@ -1,7 +1,6 @@
 #' detectClass
 #' @title Detect Class
 #' @description Detects class of given objects
-#' @author Jayachandra N
 #' @param x a vector
 #' @return type of the vector
 #' @export

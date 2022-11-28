@@ -1,7 +1,6 @@
 #' dataPartition
 #' @title Data Partition
 #' @description Partition data for training and test
-#' @author Jayachandra N
 #' @param df data.frame which need to be devided into train and test subset
 #' @param train_data_perc numeric value between 1 to 100
 #' @return list of length 2 which contains Train data and Test data
